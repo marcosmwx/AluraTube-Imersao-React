@@ -1,0 +1,29 @@
+{
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start",
+    "lint": "next lint"
+  },
+  "dependencies": {
+    "next": "^12.3.1",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "styled-components": "^5.3.6"
+  },
+  "name": "aluratube",
+  "description": "",
+  "version": "1.0.0",
+  "main": "next.config.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/marcosmwx/AluraTube-Imersao-React.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/marcosmwx/AluraTube-Imersao-React/issues"
+  },
+  "homepage": "https://github.com/marcosmwx/AluraTube-Imersao-React#readme"
+}
