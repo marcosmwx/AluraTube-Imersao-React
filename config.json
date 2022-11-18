@@ -2,8 +2,14 @@
     "name": "Marcos Willian",
     "sub": "Learning Forever",
     "github": "marcosmwx",
+    "favoritos":[
+        {
+            "arroba":"@nutridafiny",
+            "fotoinsta":"https://scontent-gig2-1.cdninstagram.com/v/t51.2885-19/293476547_435607708466020_129186315379520778_n.jpg?stp=dst-jpg_s150x150&_nc_ht=scontent-gig2-1.cdninstagram.com&_nc_cat=104&_nc_ohc=L2c5C36GzokAX8DcAoe&edm=AOQ1c0wBAAAA&ccb=7-5&oh=00_AfAJCwL7DV86hySkBYoVhqsoLCbXmTbhTuNzDkKb7c6Csg&oe=637BDD91&_nc_sid=8fd12b"
+        }
+    ],
     "playlists": {
-        "jogos": [
+        "musicas": [
             {
                 "title": "Frostpunk - Neve e Steak tartare",
                 "url": "https://www.youtube.com/watch?v=QsqatJxAUtk",
@@ -46,7 +52,7 @@
             }
             
         ],
-        "front-end": [
+        "filmes": [
             {
                 "title": "Jogo com JavaScript #01: Criando um Flappy Bird do ZERO!!!",
                 "url": "https://youtube.com/watch?v=jOAU81jdi-c",
@@ -88,7 +94,7 @@
                 "thumb": "https://img.youtube.com/vi/I36seuWUe5s/hqdefault.jpg"
             }
         ],
-        "back-end": [
+        "estudos": [
             {
                 "title": "Node JS: Construindo CRUDs com file system focando em serialização e JSON",
                 "url": "https://www.youtube.com/watch?v=dvd3pNYh7So",
